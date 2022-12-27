@@ -1,9 +1,9 @@
-import express from "express"
-import wakeUp from "../middleware/wakeUp.js"
+// import express from "express"
+// import wakeUp from "../middleware/wakeUp.js"
 
 
-const router = express.Router()
+// const router = express.Router()
 
-router.get("/", wakeUp)
+// router.get("/", wakeUp)
 
-export default router
+// export default router
